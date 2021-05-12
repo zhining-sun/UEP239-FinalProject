@@ -1,0 +1,22 @@
+Name: UEP239FinalProject
+Channels: 
+	- condo-forge
+Dependencies:
+	- python=3.*
+	- ipython=7.10.*
+	- jupyterlab
+	- geopandas
+	- numpy
+	- pandas
+	- geopy
+	- geojson
+	- matplotlib
+	- folium
+	- networkx
+	- osmnx
+	- shapely
+	- rasterio
+	- richdem
+	- rasterstats
+	- scipy
+
