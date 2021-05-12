@@ -1,7 +1,7 @@
-Name: UEP239FinalProject
-Channels: 
+name: UEP239FinalProject
+channels: 
 	- condo-forge
-Dependencies:
+dependencies:
 	- python=3.*
 	- ipython=7.10.*
 	- jupyterlab
