@@ -7,4 +7,8 @@ conda env create -f environment.yml
 
 conda activate UEP239
 
+jupyter lab FinalProject_ZhiningSun.ipynb
+
+
+
 
