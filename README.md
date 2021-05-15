@@ -40,8 +40,9 @@ tl_2010_25_zcta510 (2010 Massachusetts 5-Digit Zip Code Tabulation Area (ZCTA) B
 OUTLINE25K_POLY (Massachusetts Outline with Detailed Coastline) is downloaded from MassGIS. The feature is polygons. It is in the foler MA_Outlines.
 
 
+*Packages used
 
-
+The packages I have used include numpy, pandas, matplotlib (pyplot), folium, rasterio, geopandas and richdem. rasterio and richdem are basically used for tranforming to rasters, dong the zonal statistics and visualization. folium is used to do the interactive map.
 
 *references:
 
