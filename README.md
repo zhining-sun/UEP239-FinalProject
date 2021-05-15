@@ -42,7 +42,8 @@ OUTLINE25K_POLY (Massachusetts Outline with Detailed Coastline) is downloaded fr
 
 *Packages used
 
-The packages I have used include numpy, pandas, matplotlib (pyplot), folium, rasterio, geopandas and richdem. rasterio and richdem are basically used for tranforming to rasters, dong the zonal statistics and visualization. folium is used to do the interactive map.
+The packages I have used include os, numpy, pandas, matplotlib (pyplot), folium, rasterio, geopandas and richdem. rasterio and richdem are basically used for tranforming to rasters, dong the zonal statistics and visualization. folium is used to do the interactive map. numpy is often used when I have to do the reclassification for the raster feature. pandas and geopandas are used to deal with data frames and geodataframes. os is used to check work dictionary. 
+
 
 *references:
 
@@ -50,6 +51,10 @@ interactive map: https://vverde.github.io/blob/interactivechoropleth.html
 
 rasterio: https://rasterio.readthedocs.io/en/latest/api/rasterio.features.html
 
+
+*Ackknowledge
+
+Since I have a couple of raster features, ZCTA ranking for each indicator doesn't seem applicable for me. ZCTA ranking is done only for final scores.
 
 
 
